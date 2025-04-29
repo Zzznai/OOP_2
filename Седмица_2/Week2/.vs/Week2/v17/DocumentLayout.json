@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naima\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Week2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B56F-8739-42D9-A34F-473B853A9B8C}|OOP_first\\OOP_first.csproj|c:\\users\\naima\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\week2\\oop_first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B4B56F-8739-42D9-A34F-473B853A9B8C}|OOP_first\\OOP_first.csproj|solutionrelative:oop_first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFE6448-A5C6-4271-90C2-F8055D61172C}|OOP_second\\OOP_second.csproj|c:\\users\\naima\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\week2\\oop_second\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFE6448-A5C6-4271-90C2-F8055D61172C}|OOP_second\\OOP_second.csproj|solutionrelative:oop_second\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F38DB5A-8F7B-4B51-9E30-502AE83A6F34}|Palindrome\\Palindrome.csproj|c:\\users\\naima\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\week2\\palindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F38DB5A-8F7B-4B51-9E30-502AE83A6F34}|Palindrome\\Palindrome.csproj|solutionrelative:palindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF80A953-CCD4-49F6-A44E-24BD28099F04}|Count\\Count.csproj|c:\\users\\naima\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\week2\\count\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF80A953-CCD4-49F6-A44E-24BD28099F04}|Count\\Count.csproj|solutionrelative:count\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B080B14C-023D-459C-B18A-91C7B04D4A5D}|OddEven\\OddEven.csproj|c:\\users\\naima\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\week2\\oddeven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B080B14C-023D-459C-B18A-91C7B04D4A5D}|OddEven\\OddEven.csproj|solutionrelative:oddeven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF80A953-CCD4-49F6-A44E-24BD28099F04}|Count\\Count.csproj|c:\\users\\naima\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\week2\\count\\count.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF80A953-CCD4-49F6-A44E-24BD28099F04}|Count\\Count.csproj|solutionrelative:count\\count.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EFEA90-4C14-4861-BC00-DF69339BF4F2}|Week2\\ArrayPairs.csproj|c:\\users\\naima\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\week2\\week2\\arraypairs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38EFEA90-4C14-4861-BC00-DF69339BF4F2}|Week2\\ArrayPairs.csproj|solutionrelative:week2\\arraypairs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EFEA90-4C14-4861-BC00-DF69339BF4F2}|Week2\\ArrayPairs.csproj|c:\\users\\naima\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\week2\\week2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EFEA90-4C14-4861-BC00-DF69339BF4F2}|Week2\\ArrayPairs.csproj|solutionrelative:week2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naima\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Week2\\OOP_second\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_second\\Program.cs",
+              "ToolTip": "C:\\Users\\naima\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Week2\\OOP_second\\Program.cs",
+              "RelativeToolTip": "OOP_second\\Program.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAswIUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:27:41.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naima\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Week2\\OOP_first\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_first\\Program.cs",
+              "ToolTip": "C:\\Users\\naima\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Week2\\OOP_first\\Program.cs",
+              "RelativeToolTip": "OOP_first\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:18:14.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naima\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Week2\\Palindrome\\Program.cs",
+              "RelativeDocumentMoniker": "Palindrome\\Program.cs",
+              "ToolTip": "C:\\Users\\naima\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Week2\\Palindrome\\Program.cs",
+              "RelativeToolTip": "Palindrome\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T05:52:15.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Count.csproj",
+              "DocumentMoniker": "C:\\Users\\naima\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Week2\\Count\\Count.csproj",
+              "RelativeDocumentMoniker": "Count\\Count.csproj",
+              "ToolTip": "C:\\Users\\naima\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Week2\\Count\\Count.csproj",
+              "RelativeToolTip": "Count\\Count.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T05:47:53.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naima\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Week2\\Count\\Program.cs",
+              "RelativeDocumentMoniker": "Count\\Program.cs",
+              "ToolTip": "C:\\Users\\naima\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Week2\\Count\\Program.cs",
+              "RelativeToolTip": "Count\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T05:40:16.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArrayPairs.csproj",
+              "DocumentMoniker": "C:\\Users\\naima\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Week2\\Week2\\ArrayPairs.csproj",
+              "RelativeDocumentMoniker": "Week2\\ArrayPairs.csproj",
+              "ToolTip": "C:\\Users\\naima\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Week2\\Week2\\ArrayPairs.csproj",
+              "RelativeToolTip": "Week2\\ArrayPairs.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T05:12:32.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naima\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Week2\\OddEven\\Program.cs",
+              "RelativeDocumentMoniker": "OddEven\\Program.cs",
+              "ToolTip": "C:\\Users\\naima\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Week2\\OddEven\\Program.cs",
+              "RelativeToolTip": "OddEven\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T05:12:30.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naima\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Week2\\Week2\\Program.cs",
+              "RelativeDocumentMoniker": "Week2\\Program.cs",
+              "ToolTip": "C:\\Users\\naima\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Week2\\Week2\\Program.cs",
+              "RelativeToolTip": "Week2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T05:10:35.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

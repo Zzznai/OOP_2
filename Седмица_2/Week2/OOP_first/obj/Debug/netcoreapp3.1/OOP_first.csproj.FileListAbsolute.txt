@@ -1,0 +1,13 @@
+C:\Users\naima\OneDrive\Документи\Week2\OOP_first\bin\Debug\netcoreapp3.1\OOP_first.exe
+C:\Users\naima\OneDrive\Документи\Week2\OOP_first\bin\Debug\netcoreapp3.1\OOP_first.deps.json
+C:\Users\naima\OneDrive\Документи\Week2\OOP_first\bin\Debug\netcoreapp3.1\OOP_first.runtimeconfig.json
+C:\Users\naima\OneDrive\Документи\Week2\OOP_first\bin\Debug\netcoreapp3.1\OOP_first.runtimeconfig.dev.json
+C:\Users\naima\OneDrive\Документи\Week2\OOP_first\bin\Debug\netcoreapp3.1\OOP_first.dll
+C:\Users\naima\OneDrive\Документи\Week2\OOP_first\bin\Debug\netcoreapp3.1\OOP_first.pdb
+C:\Users\naima\OneDrive\Документи\Week2\OOP_first\obj\Debug\netcoreapp3.1\OOP_first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naima\OneDrive\Документи\Week2\OOP_first\obj\Debug\netcoreapp3.1\OOP_first.AssemblyInfoInputs.cache
+C:\Users\naima\OneDrive\Документи\Week2\OOP_first\obj\Debug\netcoreapp3.1\OOP_first.AssemblyInfo.cs
+C:\Users\naima\OneDrive\Документи\Week2\OOP_first\obj\Debug\netcoreapp3.1\OOP_first.csproj.CoreCompileInputs.cache
+C:\Users\naima\OneDrive\Документи\Week2\OOP_first\obj\Debug\netcoreapp3.1\OOP_first.dll
+C:\Users\naima\OneDrive\Документи\Week2\OOP_first\obj\Debug\netcoreapp3.1\OOP_first.pdb
+C:\Users\naima\OneDrive\Документи\Week2\OOP_first\obj\Debug\netcoreapp3.1\OOP_first.genruntimeconfig.cache

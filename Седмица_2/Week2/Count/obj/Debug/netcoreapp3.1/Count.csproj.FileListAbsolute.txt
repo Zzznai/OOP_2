@@ -1,0 +1,13 @@
+C:\Users\naima\OneDrive\Документи\Week2\Count\bin\Debug\netcoreapp3.1\Count.exe
+C:\Users\naima\OneDrive\Документи\Week2\Count\bin\Debug\netcoreapp3.1\Count.deps.json
+C:\Users\naima\OneDrive\Документи\Week2\Count\bin\Debug\netcoreapp3.1\Count.runtimeconfig.json
+C:\Users\naima\OneDrive\Документи\Week2\Count\bin\Debug\netcoreapp3.1\Count.runtimeconfig.dev.json
+C:\Users\naima\OneDrive\Документи\Week2\Count\bin\Debug\netcoreapp3.1\Count.dll
+C:\Users\naima\OneDrive\Документи\Week2\Count\bin\Debug\netcoreapp3.1\Count.pdb
+C:\Users\naima\OneDrive\Документи\Week2\Count\obj\Debug\netcoreapp3.1\Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naima\OneDrive\Документи\Week2\Count\obj\Debug\netcoreapp3.1\Count.AssemblyInfoInputs.cache
+C:\Users\naima\OneDrive\Документи\Week2\Count\obj\Debug\netcoreapp3.1\Count.AssemblyInfo.cs
+C:\Users\naima\OneDrive\Документи\Week2\Count\obj\Debug\netcoreapp3.1\Count.csproj.CoreCompileInputs.cache
+C:\Users\naima\OneDrive\Документи\Week2\Count\obj\Debug\netcoreapp3.1\Count.dll
+C:\Users\naima\OneDrive\Документи\Week2\Count\obj\Debug\netcoreapp3.1\Count.pdb
+C:\Users\naima\OneDrive\Документи\Week2\Count\obj\Debug\netcoreapp3.1\Count.genruntimeconfig.cache
