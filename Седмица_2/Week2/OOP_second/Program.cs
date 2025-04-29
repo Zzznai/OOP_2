@@ -6,7 +6,7 @@ namespace OOP_second
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
     enum FuelType
